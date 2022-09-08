@@ -1,4 +1,4 @@
-# 🧰FiveM CarRims/JDMRims Pack ( 63 rims )
+# 🧰FiveM CarRims/JDMRims Pack ( 159 rims )
 
 ## ⭐CREDITS / ❗Copyright
 **Hey, the content was NOT created by me, I don't know which people I downloaded this pack from. I used this content a year ago and want to release this pack because I don't play FiveM anymore and want to help some people, also I constantly improve the content of the packs. If you are also one of the creators, just create a pull request/issues!**
